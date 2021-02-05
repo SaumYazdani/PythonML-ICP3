@@ -1,1 +1,1 @@
-# PythonML-ICP3
+Using python, we were first asked to create a basic class and use inheritance to make an employee class. Next we were asked to use the BeautifulSoup library to parse through a Wikipedia page and save all links the page contained. Lastly, we were asked to use the NumPy library to create a vector of 20 random elements, resize it to a 4x5, then replace the smallest element in each row with 0.
